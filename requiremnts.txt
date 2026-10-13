@@ -1,0 +1,15 @@
+
+# Install with:
+#   pip install -r requirements.txt
+
+
+# Library
+Flask
+openai
+python-dotenv
+
+
+
+
+
+
