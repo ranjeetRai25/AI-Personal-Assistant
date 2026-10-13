@@ -172,13 +172,10 @@ Summarizes long emails into concise, readable content while retaining the main m
 3. The OpenAI API generates a concise summary.
 4. The summary is displayed on the page.
 
-**Example input:**
+### Summarize Email
+![Summarize Email](screenshots/summarize-email.png)
 
-A team email discussing emerging technologies such as Generative AI, Agentic AI, Machine Learning, and automation.
 
-**Example output:**
-
-The sender proposes exploring emerging AI technologies and sharing practical knowledge to improve team skills, productivity, and innovation.
 
 ## 🧠 Generative AI Concepts Demonstrated
 
